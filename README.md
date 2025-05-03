@@ -1,6 +1,9 @@
 # python-decision-boundaries
 using the dataset  train the model data set  using  python library and machine learning 
 ![image](https://github.com/user-attachments/assets/28c96f70-833d-438c-821b-c46bc83db34c)
+
+
+
 #Python library's and machine learning
 import numpy as np
 import matplotlib.pyplot as plt
